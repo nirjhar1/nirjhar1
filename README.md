@@ -4,10 +4,10 @@
 
 I have more than 5 years of experience with a vast majority dedicated to operational and technical. I constantly challenge myself to solve problems by Coding, Development and I love making exclusive Shopify Store.
 
-Skills: LIQUID / JS / HTML / CSS
+Skills: Skills: LIQUID / JS / HTML / CSS
 
 - 🔭 I’m currently working on https://pravinutrition.com/ 
-- 🌱 I’m currently learning Liquid (Shopify) 
+- 🌱 I’m currently learning  Liquid (Shopify) 
 - 📫 How to reach me: nirjharhasan197@gmail.com 
 
 
@@ -22,8 +22,6 @@ Skills: LIQUID / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirjhar1&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nirjhar1/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/nirjhar1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nirjhar1)  
 
