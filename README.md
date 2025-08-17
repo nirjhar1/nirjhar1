@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mohammad Nirjhar Hasan
 #### Dedicated Shopify Developer | Liquid, JS, custom themes & PageFly | Creating smooth online stores.
-![Dedicated Shopify Developer | Liquid, JS, custom themes & PageFly | Creating smooth online stores.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Dedicated Shopify Developer | Liquid, JS, custom themes & PageFly | Creating smooth online stores.](https://github.com/nirjhar1/nirjhar1/blob/main/Nirjhar%20Hasan%20(1).png)
 
 I have more than 5 years of experience with a vast majority dedicated to operational and technical. I constantly challenge myself to solve problems by Coding, Development and I love making exclusive Shopify Store.
 
